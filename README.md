@@ -1,0 +1,1 @@
+# -wget--q--O--https-raw.githubusercontent.com-RojavaCrypto-launderwallet-master-scripts-install.sh
